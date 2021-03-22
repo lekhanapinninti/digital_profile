@@ -12,4 +12,12 @@
 3. Item 3
   *Item 3a
   *Item 3b
+First header | Second Header
+-------------| -------------
+content cell 1 | content cell 2
+content column 1 | content columnb 2
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
   
